@@ -9,3 +9,10 @@ Kim Vocal 2 model weights remain at their approved upstream source and are downl
 Downloads are attached to GitHub Releases rather than stored in Git history. Runtime dependencies retain their own licenses and notices.
 
 Current development artifacts are ad hoc signed and are not Apple-notarized public releases.
+
+
+## Privacy and support
+
+Read the [MusicMute Local privacy policy](PRIVACY.md) for Chrome extension and Mac companion data use, shared YouTube saving, retention and the Chrome Web Store Limited Use disclosure.
+
+[Contact MusicMute support](https://api.music-mute.com/support).
